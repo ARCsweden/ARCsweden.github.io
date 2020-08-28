@@ -1,0 +1,114 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: Aros Robotics Club
+description: "Aros Robotics Club är klubben för alla robotikintresserade"
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "https://arcsweden.github.io/"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary: "#00959E" #"#F70031" tidigare "#00b3fe"
+  primary_rgb: "0, 149, 158" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#123233" #"#33004D" tidigare "#384452"
+  background: "#3B6465"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+  - title: 
+    url:
+  - title: facebook
+    url: https://www.facebook.com/ArosRoboticsClub
+  - title: github
+    url: https://github.com/ARCsweden/
+
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines:
+    - Pressverksgatan 6,
+    - 721 30, Västerås,
+    - Sverige.
+email: arcsweden.se@gmail.com
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+
+# Members information. Shown on About page.
+members:
+  - name: Jan-Ove Leksell
+    position: Ordförande
+    text:
+    img: ARCfolk_Janne.png
+    social:
+      - title: envelope #use for email address
+        url: mailto:jll15004@student.mdh.se
+
+  - name: Gustav Erlandsson
+    position: Vice ordförande / Websideansvarig
+    text: 
+    img: ARCfolk_Gurra.png
+    social:
+      - title: envelope #use for email address
+        url: mailto:gen17002@student.mdh.se
+
+  - name: Erik Lindgren
+    position: Kassör/Sekreterare
+    text: 
+    img: ARCfolk_Koping.png
+    social:
+      - title: envelope #use for email address
+        url: mailto:eln17011@student.mdh.se
+
+  - name: Torbjörn Leksell
+    position: Styrelsemedlem
+    text: 
+    img: ARCfolk_Torb.png
+
+
+  - name: Felix Sjöqvist
+    position: Styrelsemedlem
+    text: 
+    img: ARCfolk_Felix.png
+    social:
+      - title: envelope #use for email address
+        url: mailto:fst17001@student.mdh.se
+
+  - name: Henrik Särnblad
+    position: Styrelsemedlem
+    text: 
+    img: ARCfolk_Henk.png
+    social:
+      - title: envelope #use for email address
+        url: mailto:hsd16003@student.mdh.se
+
+  - name: William Forsberg
+    position: Styrelsemedlem
+    text: 
+    img: ARCfolk_Wille.png
+    social:
+      - title: envelope #use for email address
+        url: mailto:wfg17001@student.mdh.se
+
+
+# Clients information. Shown on Home and About pages.
+clients:
+  - name: Mälardalens Högskola
+    img: client01.png
+    baseurl: https://www.mdh.se/
+  - name: Västerås Stad
+    img: client02.png
+    baseurl: https://www.vasteras.se/
+
+
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "Aros Robotics Club (ARC) är en ideell förening som finns i Västerås. Syftet med ARC är att främja robotutveckling och skapa en mötesplats för robotikinntresserade personer. "
