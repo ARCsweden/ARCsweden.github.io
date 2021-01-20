@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Årsmöte 2021"
-date: 2020-01-20 15:00
+date: 2021-01-20 15:00
 author: Gustav Erlandsson
 categories: 
 - Info
@@ -12,26 +12,25 @@ bthumb: årsmöte_bthumb.jpg #bigthumbnail
 
 Den 29/1 kl.16:00 har ARC årsmöte över Zoom. Hoppas att så många som möjligt kan komma. Nedan finns agendan för årsmötet.<!--more-->
 
-<b>§1. Mötet öppnas
-§2. Val av mötesordförande och sekreterare
-§3. Fastställande av röstlängd
-§4. Frågan om mötets behöriga utlysande
-§5. Val av justerare respektive rösträknare
-§6. Fastställande av dagordningen
-§7. Uppläsning av föregående årsmötesprotokoll
-§8. Godkännande av verksamhetsberättelse
-§9. Kassörens berättelse
-§10. Revisionsberättelse
-§11. Interpellation
-§12. Fråga om ansvarsfrihet för avgående styrelse
-§13. Val av antal ledamöter
-§14. Val ny styrelse
-§15. Val av revisor
-§16. Val av sammankallande för Valberedning
-§17. Fastställande av medlemsavgifter för kommande verksamhetsår
-§18. Fastställande av budget för kommande verksamhetsår
-§19. Behandlande av inkomna propositioner
-§20. Behandlande av inkomna motioner
-
-§21. Övriga frågor
-§22. Mötets avslutande</b>
+<b>§1. Mötet öppnas</b>
+<b>§2. Val av mötesordförande och sekreterare</b>
+<b>§3. Fastställande av röstlängd</b>
+<b>§4. Frågan om mötets behöriga utlysande</b>
+<b>§5. Val av justerare respektive rösträknare</b>
+<b>§6. Fastställande av dagordningen</b>
+<b>§7. Uppläsning av föregående årsmötesprotokoll</b>
+<b>§8. Godkännande av verksamhetsberättelse</b>
+<b>§9. Kassörens berättelse</b>
+<b>§10. Revisionsberättelse</b>
+<b>§11. Interpellation</b>
+<b>§12. Fråga om ansvarsfrihet för avgående styrelse</b>
+<b>§13. Val av antal ledamöter</b>
+<b>§14. Val ny styrelse</b>
+<b>§15. Val av revisor</b>
+<b>§16. Val av sammankallande för Valberedning</b>
+<b>§17. Fastställande av medlemsavgifter för kommande verksamhetsår</b>
+<b>§18. Fastställande av budget för kommande verksamhetsår</b>
+<b>§19. Behandlande av inkomna propositioner</b>
+<b>§20. Behandlande av inkomna motioner</b>
+<b>§21. Övriga frågor</b>
+<b>§22. Mötets avslutande</b>
