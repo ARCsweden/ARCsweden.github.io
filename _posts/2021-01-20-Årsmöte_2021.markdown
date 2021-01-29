@@ -10,7 +10,7 @@ thumb: årsmöte_thumb.jpg #thumbnail
 bthumb: årsmöte_bthumb.jpg #bigthumbnail
 ---
 
-Den 29/1 kl.16:00 har ARC årsmöte över Zoom. Hoppas att så många som möjligt kan komma. Nedan finns agendan för årsmötet.<!--more-->
+Den 29/1 kl.16:00 har ARC årsmöte över Zoom. https://mdh-se.zoom.us/j/61742951938 Hoppas att så många som möjligt kan komma. Nedan finns agendan för årsmötet.<!--more-->
 
 <b>§1. Mötet öppnas</b>
 <b>§2. Val av mötesordförande och sekreterare</b>
