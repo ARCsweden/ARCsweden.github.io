@@ -45,21 +45,21 @@ email: arcsweden.se@gmail.com
 
 # Members information. Shown on About page.
 members:
-  - name: Jan-Ove Leksell
-    position: Ordförande
-    text:
-    img: ARCfolk_Janne.png
-    social:
-      - title: envelope #use for email address
-        url: mailto:jll15004@student.mdh.se
-
   - name: Gustav Erlandsson
-    position: Vice ordförande/Webbansvarig
+    position: Ordförande
     text: 
     img: ARCfolk_Gurra.png
     social:
       - title: envelope #use for email address
         url: mailto:gen17002@student.mdh.se
+
+  - name: William Forsberg
+    position: Vice ordförande
+    text: 
+    img: ARCfolk_Wille.png
+    social:
+      - title: envelope #use for email address
+        url: mailto:wfg17001@student.mdh.se
 
   - name: Erik Lindgren
     position: Kassör/Sekreterare
@@ -69,12 +69,6 @@ members:
       - title: envelope #use for email address
         url: mailto:eln17011@student.mdh.se
 
-  - name: Torbjörn Leksell
-    position: Styrelsemedlem
-    text: 
-    img: ARCfolk_Torb.png
-
-
   - name: Felix Sjöqvist
     position: Styrelsemedlem
     text: 
@@ -82,22 +76,6 @@ members:
     social:
       - title: envelope #use for email address
         url: mailto:fst17001@student.mdh.se
-
-  - name: Henrik Särnblad
-    position: Styrelsemedlem
-    text: 
-    img: ARCfolk_Henk.png
-    social:
-      - title: envelope #use for email address
-        url: mailto:hsd16003@student.mdh.se
-
-  - name: William Forsberg
-    position: Styrelsemedlem
-    text: 
-    img: ARCfolk_Wille.png
-    social:
-      - title: envelope #use for email address
-        url: mailto:wfg17001@student.mdh.se
 
 
 # Clients information. Shown on Home and About pages.
