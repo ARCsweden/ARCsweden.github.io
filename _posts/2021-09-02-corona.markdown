@@ -5,9 +5,9 @@ date: 2021-09-02 14:30
 author: Gustav Erlandsson
 categories: 
 - Info
-img: newwebsitepost.jpg
-thumb: newwebsitethumb.jpg #thumbnail
-bthumb: newwebsite.jpg #bigthumbnail
+img: coronapost.jpg
+thumb: coronapostthumb.jpg #thumbnail
+bthumb: coronapostthumbbig.jpg #bigthumbnail
 ---
 Hej ARC! Vi tänkte starta igång ARC försiktigt och på grund av de restriktioner som finns så har vi fått sätta upp vissa förhållningsregler. 
 <!--more-->
