@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Corona förhållningsregler"
+date: 2021-09-02 14:30
+author: Gustav Erlandsson
+categories: 
+- Info
+img: newwebsitepost.jpg
+thumb: newwebsitethumb.jpg #thumbnail
+bthumb: newwebsite.jpg #bigthumbnail
+---
+Hej ARC! Vi tänkte starta igång ARC försiktigt och på grund av de restriktioner som finns så har vi fått sätta upp vissa förhållningsregler. 
+<!--more-->
+<ul>
+    <li>Stanna hemma vid minsta sjukdomssymptom</li>
+    <li>Håll avstånd och tvätta händerna ofta</li>
+    <li>Minska köbildning vid fikat</li>
+    <li>Använd handsprit innan du tar fika</li>
+    <li>Sitt vid designerade platser</li>
+    <li>Max en person i 3d-printerummet åt gången</li>
+</ul>
