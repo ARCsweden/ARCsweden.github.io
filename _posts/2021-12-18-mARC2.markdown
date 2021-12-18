@@ -1,0 +1,16 @@
+---
+layout: post
+title: "mARC2, ARCs egendesignade robotarm"
+date: 2021-12-18 17:30
+author: Gustav Erlandsson
+categories: 
+- Project
+img: coronapost.jpg
+thumb: coronapostthumb.jpg #thumbnail
+bthumb: coronapostthumbbig.jpg #bigthumbnail
+---
+Äntligen är robotarmen mARC2 färdigbyggd och vi har precis börjat programmera den. 
+<!--more-->
+Vi har idag lyckats få till jämna motorrörelser(d.v.s inte lika hackig som förra veckan) och en homing funktion som sätter alla joints i sina home positioner. Vi ser fram emot att fortsätta utöka funktionaliteten nästa år. Här kan ni se hur homing funktionen fungerar.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_NRgYh_ebSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
