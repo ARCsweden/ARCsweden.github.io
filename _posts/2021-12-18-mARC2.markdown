@@ -4,7 +4,7 @@ title: "mARC2, ARCs egendesignade robotarm"
 date: 2021-12-18 17:30
 author: Gustav Erlandsson
 categories: 
-- Project
+- Projekt
 img: mARC2.jpg
 thumb: mARC2_thumb.jpg #thumbnail
 bthumb: mARC2_bthumb.jpg #bigthumbnail
