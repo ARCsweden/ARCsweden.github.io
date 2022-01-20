@@ -9,7 +9,7 @@ img: coronapost.jpg
 thumb: coronapostthumb.jpg #thumbnail
 bthumb: coronapostthumbbig.jpg #bigthumbnail
 ---
-Hej ARC! Vi tänkte starta igång ARC försiktigt och på grund av de restriktioner som finns så har vi fått sätta upp vissa förhållningsregler. 
+Hej ARC! Vi tänkte starta igång ARC försiktigt och på grund av de restriktioner som finns så har vi fått sätta upp vissa förhållningsregler.
 <!--more-->
 <ul>
     <li>Stanna hemma vid minsta sjukdomssymptom</li>
