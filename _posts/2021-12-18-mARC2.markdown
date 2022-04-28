@@ -13,4 +13,7 @@ bthumb: mARC2_bthumb.jpg #bigthumbnail
 <!--more-->
 Vi har idag lyckats få till jämna motorrörelser(d.v.s inte lika hackig som förra veckan) och en homing funktion som sätter alla joints i sina home positioner. Vi ser fram emot att fortsätta utöka funktionaliteten nästa år. Här kan ni se hur homing funktionen fungerar. 
 
+<iframe width="420" height="315" src="https://youtu.be/_NRgYh_ebSI" frameborder="0" allowfullscreen></iframe>
+
+
 [![mARC2 video](https://arcsweden.github.io/assets/img/activities/mARC2Vid.png)](https://youtu.be/_NRgYh_ebSI "mARC2 video")
