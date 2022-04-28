@@ -62,7 +62,7 @@ members:
         url: mailto:wfg17001@student.mdh.se
 
   - name: Erik Lindgren
-    position: Kassör/Sekreterare
+    position: Kassör
     text: 
     img: ARCfolk_Koping.png
     social:
@@ -70,7 +70,7 @@ members:
         url: mailto:eln17011@student.mdh.se
 
   - name: Felix Sjöqvist
-    position: Styrelsemedlem
+    position: Sekreterare
     text: 
     img: ARCfolk_Felix.png
     social:
@@ -82,7 +82,7 @@ members:
 clients:
   - name: Mälardalens Högskola
     img: client01.png
-    baseurl: https://www.mdh.se/
+    baseurl: https://www.mdu.se/
   - name: Västerås Stad
     img: client02.png
     baseurl: https://www.vasteras.se/
