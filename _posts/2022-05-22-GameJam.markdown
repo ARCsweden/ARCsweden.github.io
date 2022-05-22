@@ -5,11 +5,13 @@ date: 2022-05-22 17:10
 author: Felix Sjöqvist
 categories: 
 - Projekt
-img: mARC2.jpg
-thumb: mARC2_thumb.jpg #thumbnail
-bthumb: mARC2_bthumb.jpg #bigthumbnail
+img: BenathTheSurface.jpg
+thumb: BenathTheSurface_thumb.jpg #thumbnail
+bthumb: BenathTheSurface_bthumb.jpg #bigthumbnail
 ---
 ARC's Game Jam 2022 är över och så här blev resultatet!
 <!--more-->
-Kanske?
 
+[Här är länken](https://arc-sweden.itch.io/arc-game-jam-2022) där du kan ladda ner en windows build av spelet.
+
+<iframe frameborder="0" src="https://itch.io/embed-upload/5833019?color=333333" allowfullscreen="" width="1280" height="740"><a href="https://arc-sweden.itch.io/arc-game-jam-2022">Play ARC Game Jam 2022 on itch.io</a></iframe> 
