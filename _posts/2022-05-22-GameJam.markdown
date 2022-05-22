@@ -13,4 +13,3 @@ ARC's Game Jam 2022 är över och så här blev resultatet!
 <!--more-->
 [Här är länken](https://arc-sweden.itch.io/arc-game-jam-2022) där du kan ladda ner en windows build av spelet.
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/5833019?color=333333" allowfullscreen="" width="1280" height="740"><a href="https://arc-sweden.itch.io/arc-game-jam-2022">Play ARC Game Jam 2022 on itch.io</a></iframe> 
