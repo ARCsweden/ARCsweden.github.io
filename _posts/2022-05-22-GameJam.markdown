@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "ARC GameJam 2022: Beneath the surface"
+title: "ARC GameJam 2022"
 date: 2022-05-22 17:10
-author: Felix Sjöqvist
+author: Felix Sjoqvist
 categories: 
 - Projekt
 img: mARC2.jpg
