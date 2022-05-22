@@ -11,6 +11,6 @@ bthumb: mARC2_bthumb.jpg #bigthumbnail
 ---
 Äntligen är robotarmen mARC2 färdigbyggd och vi har precis börjat programmera den. 
 <!--more-->
-Vi har idag lyckats få till jämna motorrörelser(d.v.s inte lika hackig som förra veckan) och en homing funktion som sätter alla joints i sina home positioner. Vi ser fram emot att fortsätta utöka funktionaliteten nästa år. Här kan ni se hur homing funktionen fungerar. 
+Vi har idag lyckats få till jämna motorrörelser(d.v.s inte lika hackig som förra veckan) och en homing funktion som sätter alla joints i sina home positioner. Vi ser fram emot att fortsätta utöka funktionaliteten nästa år. Här kan ni se hur homing funktionen fungerar.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_NRgYh_ebSI" title="mARC2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
