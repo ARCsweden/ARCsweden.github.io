@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "mARC2, ARCs egendesignade robotarm"
-date: 2021-12-18 17:30
-author: Gustav Erlandsson
+title: "ARC GameJam 2022: Beneath the surface"
+date: 2022-05-22 17:10
+author: Felix Sjöqvist
 categories: 
 - Projekt
 img: mARC2.jpg
