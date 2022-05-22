@@ -12,6 +12,7 @@ bthumb: BenathTheSurface_bthumb.jpg #bigthumbnail
 ARC's Game Jam 2022 är över och så här blev resultatet!
 <!--more-->
 
+Deltagande: Felix Sjöqvist, Gustav Erlandsson, Erik Lindgren, William Forsberg, Jan-Ove Leksell, Emma Jakobsson, Lukas Dust.
 [Här är länken](https://arc-sweden.itch.io/arc-game-jam-2022) där du kan ladda ner en windows build av spelet.
 
 <iframe frameborder="0" src="https://itch.io/embed-upload/5833019?color=ffffff" allowfullscreen="" width="970" height="675"><a href="https://arc-sweden.itch.io/arc-game-jam-2022%22%3EPlay ARC Game Jam 2022 on itch.io</a></iframe>
@@ -25,6 +26,7 @@ Controller:
 * Mines on north button
 * Flap fin on Left/Right trigger
 * Reset on start button
+  
 Keyboard:
 
 * Right/Left engines on w/s and up/down arrows
