@@ -15,3 +15,20 @@ ARC's Game Jam 2022 är över och så här blev resultatet!
 [Här är länken](https://arc-sweden.itch.io/arc-game-jam-2022) där du kan ladda ner en windows build av spelet.
 
 <iframe frameborder="0" src="https://itch.io/embed-upload/5833019?color=ffffff" allowfullscreen="" width="970" height="675"><a href="https://arc-sweden.itch.io/arc-game-jam-2022%22%3EPlay ARC Game Jam 2022 on itch.io</a></iframe>
+
+Aros Robotics Club's 2022 Game Jam with the theme "Beneath the surface". This is a local multiplayer game. Controllers are recommended. Destroy enemy subs and avoid collisions.
+
+Controller:
+
+* Right/Left engines with thumbsticks
+* Torpedo on west button
+* Mines on north button
+* Flap fin on Left/Right trigger
+* Reset on start button
+Keyboard:
+
+* Right/Left engines on w/s and up/down arrows
+* Torpedo on space bar
+* Mines on A
+* Flap fin on Left/Right arrows
+* Reset on R
