@@ -1,17 +1,16 @@
 ---
 layout: post
-title: "ARC GameJam 2022: Beneath the surface"
-date: 2022-05-22 17:10
-author: Felix Sjöqvist
+title: "mARC2, ARCs egendesignade robotarm"
+date: 2021-12-18 17:30
+author: Gustav Erlandsson
 categories: 
 - Projekt
-img: BenathTheSurface.jpg
-thumb: BenathTheSurface_thumb.jpg #thumbnail
-bthumb: BenathTheSurface_bthumb.jpg #bigthumbnail
+img: mARC2.jpg
+thumb: mARC2_thumb.jpg #thumbnail
+bthumb: mARC2_bthumb.jpg #bigthumbnail
 ---
-ARC's Game Jam 2022 är över och så här blev resultatet!
+Äntligen är robotarmen mARC2 färdigbyggd och vi har precis börjat programmera den. 
 <!--more-->
+Vi har idag lyckats få till jämna motorrörelser(d.v.s inte lika hackig som förra veckan) och en homing funktion som sätter alla joints i sina home positioner. Vi ser fram emot att fortsätta utöka funktionaliteten nästa år. Här kan ni se hur homing funktionen fungerar. 
 
-[Här är länken](https://arc-sweden.itch.io/arc-game-jam-2022) där du kan ladda ner en windows build av spelet.
-
-<iframe frameborder="0" src="https://itch.io/embed-upload/5833019?color=333333" allowfullscreen="" width="1280" height="740"><a href="https://arc-sweden.itch.io/arc-game-jam-2022">Play ARC Game Jam 2022 on itch.io</a></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_NRgYh_ebSI" title="mARC2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
