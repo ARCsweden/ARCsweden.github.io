@@ -1,0 +1,13 @@
+---
+layout: post
+title: "ARC GameJam 2022: Beneath the surface"
+date: 2022-05-22 17:10
+author: Felix Sjöqvist
+categories: 
+- Projekt
+---
+ARC's Game Jam 2022 är över och så här blev resultatet!
+<!--more-->
+[Här är länken](https://arc-sweden.itch.io/arc-game-jam-2022) där du kan ladda ner en windows build av spelet.
+
+<iframe src="https://itch.io/embed/1541645" width="552" height="167" frameborder="0"><a href="https://arc-sweden.itch.io/arc-game-jam-2022">ARC Game Jam 2022 by ARC Sweden</a></iframe>
