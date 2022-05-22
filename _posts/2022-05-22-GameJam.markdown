@@ -11,5 +11,5 @@ bthumb: BenathTheSurface_bthumb.jpg #bigthumbnail
 ---
 ARC's Game Jam 2022 är över och så här blev resultatet!
 <!--more-->
-[Här är länken](https://arc-sweden.itch.io/arc-game-jam-2022) där du kan ladda ner en windows build av spelet.
+Kanske?
 
