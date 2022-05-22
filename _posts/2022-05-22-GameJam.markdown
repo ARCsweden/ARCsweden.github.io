@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "ARC GameJam 2022"
-date: 2022-05-22 17:10
-author: Felix Sjoqvist
+title: "mARC2, ARCs egendesignade robotarm"
+date: 2021-12-18 17:30
+author: Gustav Erlandsson
 categories: 
 - Projekt
-img: mARC2.jpg
-thumb: mARC2_thumb.jpg #thumbnail
-bthumb: mARC2_bthumb.jpg #bigthumbnail
+img: BenathTheSurface.jpg
+thumb: BenathTheSurface_thumb.jpg #thumbnail
+bthumb: BenathTheSurface_bthumb.jpg #bigthumbnail
 ---
 ARC's Game Jam 2022 är över och så här blev resultatet!
 <!--more-->
