@@ -14,7 +14,7 @@ ARC's höst Game Jam 2022 är över och så här blev resultatet!
 Första spelet heter Omelette du Frogmage och handlar om en grodas överlevnad i ett hungrigt Frankrike.
 [Här är länken](https://arc-sweden.itch.io/omelette-du-frogmage-gamejam-2022-fall).
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/6824327?color=333333" allowfullscreen="" width="970" height="675"><a href="https://arc-sweden.itch.io/omelette-du-frogmage-gamejam-2022-fall">Play Omelette du Frogmage - GameJam 2022 Fall on itch.io</a></iframe>
+
 
 Mouse to aim
 
