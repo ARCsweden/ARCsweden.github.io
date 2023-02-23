@@ -33,4 +33,4 @@ Keyboard:
 * Torpedo on space bar
 * Mines on A
 * Flap fin on Left/Right arrows
-* Reset on R
+* Reset on R 
