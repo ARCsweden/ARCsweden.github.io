@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Årsmöte 2024"
+date: 2024-01-25 18:00
+author: Gustav Erlandsson
+categories: 
+- Info
+img: årsmöte.jpg
+thumb: årsmöte_thumb.jpg #thumbnail
+bthumb: årsmöte_bthumb.jpg #bigthumbnail
+---
+
+Den 25/1 kl.18:00 har ARC årsmöte uppe på Finslätten. Hoppas att så många som möjligt kan komma. Det går även att vara med över Discord. Nedan finns agendan för årsmötet.<!--more-->
+
+<b>§1. Mötet öppnas</b>
+<b>§2. Val av mötesordförande och sekreterare</b>
+<b>§3. Fastställande av röstlängd</b>
+<b>§4. Frågan om mötets behöriga utlysande</b>
+<b>§5. Val av justerare respektive rösträknare</b>
+<b>§6. Fastställande av dagordningen</b>
+<b>§7. Uppläsning av föregående årsmötesprotokoll</b>
+<b>§8. Godkännande av verksamhetsberättelse</b>
+<b>§9. Kassörens berättelse</b>
+<b>§10. Revisionsberättelse</b>
+<b>§11. Fråga om ansvarsfrihet för avgående styrelse</b>
+<b>§12. Val av antal ledamöter</b>
+<b>§13. Val ny styrelse</b>
+<b>§14. Val av revisor</b>
+<b>§15. Val av sammankallande för Valberedning</b>
+<b>§16. Fastställande av medlemsavgifter för kommande verksmhetsår</b>
+<b>§17. Fastställande av budget för kommande verksamhetsår</b>
+<b>§18. Behandlande av inkomna propositioner</b>
+<b>§19. Behandlande av inkomna motioner</b>
+<b>§20. Övriga frågor</b>
+<b>§21. Mötets avslutande</b>
