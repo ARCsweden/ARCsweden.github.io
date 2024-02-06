@@ -51,36 +51,36 @@ members:
     img: ARCfolk_Gurra.png
     social:
       - title: envelope #use for email address
-        url: mailto:gen17002@student.mdh.se
-
-  - name: William Forsberg
-    position: Vice ordförande
-    text: 
-    img: ARCfolk_Wille.png
-    social:
-      - title: envelope #use for email address
-        url: mailto:wfg17001@student.mdh.se
+        url: mailto:arcsweden.se@gmail.com
 
   - name: Erik Lindgren
-    position: Kassör
+    position: Vice-Ordförande
     text: 
     img: ARCfolk_Koping.png
     social:
       - title: envelope #use for email address
-        url: mailto:eln17011@student.mdh.se
+        url: mailto:arcsweden.se@gmail.com
 
-  - name: Felix Sjöqvist
-    position: Sekreterare
+  - name: William Forsberg
+    position: Kassör
     text: 
-    img: ARCfolk_Felix.png
+    img: ARCfolk_Wille.png
     social:
       - title: envelope #use for email address
-        url: mailto:fst17001@student.mdh.se
+        url: mailto:arcsweden.se@gmail.com
+
+  - name: Henrik Särnblad
+    position: Sekreterare
+    text: 
+    img: ARCfolk_Henk.png
+    social:
+      - title: envelope #use for email address
+        url: mailto:arcsweden.se@gmail.com
 
 
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: Mälardalens Högskola
+  - name: Mälardalens Universitet
     img: client01.png
     baseurl: https://www.mdu.se/
   - name: Västerås Stad
