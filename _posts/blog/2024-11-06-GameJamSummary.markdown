@@ -10,6 +10,6 @@ img: gamejam2024fall.png
 thumb: gamejam2024fall.png #thumbnail
 bthumb: gamejam2024fall.png #bigthumbnail
 ---
-Höstens gamejam gick kanon! Vi fick till två stycken spel!
+Höstens gamejam gick kanon! Vi fick till två stycken spel, men bara ett av dem gick att ladda upp!
 <!--more-->
-Här kan du ladda ned spelen eller testa dem direkt i webbläsaren: [Här är länken](https://itch.io/jam/arc-game-jam-fall-2024)
+Här kan du ladda ned spelet eller testa det direkt i webbläsaren: [Här är länken](https://itch.io/jam/arc-game-jam-fall-2024)
