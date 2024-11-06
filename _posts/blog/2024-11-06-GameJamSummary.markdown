@@ -8,6 +8,7 @@ categories:
 - Projekt
 img: gamejam2024fall.png
 thumb: gamejam2024fall.png #thumbnail
+bthumb: gamejam2024fall.png #bigthumbnail
 ---
 Höstens gamejam gick kanon! Vi fick till två stycken spel!
 <!--more-->
