@@ -4,6 +4,7 @@ title: "ARC GameJam 2022: 1 Hp"
 date: 2023-02-23 18:00
 author: Gustav Erlandsson
 categories: 
+- blog
 - Projekt
 img: bigfrog.PNG
 thumb: frog.png #thumbnail
