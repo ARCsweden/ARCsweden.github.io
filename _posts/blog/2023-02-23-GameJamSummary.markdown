@@ -5,9 +5,9 @@ date: 2023-02-23 18:00
 author: Gustav Erlandsson
 categories: 
 - Projekt
-img: frog.png
+img: bigfrog.PNG
 thumb: frog.png #thumbnail
-bthumb: frog.png #bigthumbnail
+bthumb: bigfrog.PNG #bigthumbnail
 ---
 ARC's höst Game Jam 2022 är över och så här blev resultatet!
 <!--more-->
