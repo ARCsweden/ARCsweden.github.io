@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ARC GameJam Hösten 2024: "
+title: "ARC GameJam Hösten 2024"
 date: 2024-11-06 19:00
 author: Erik Lindgren
 categories: 
