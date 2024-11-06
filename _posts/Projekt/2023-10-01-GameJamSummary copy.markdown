@@ -4,7 +4,6 @@ title: "ARC GameJam 2023: "
 date: 2023-10-01 18:00
 author: Erik Lindgren
 categories: 
-- blog
 - Projekt
 img: stan.png
 thumb: stan.png #thumbnail

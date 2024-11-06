@@ -4,18 +4,15 @@ title: "ARC GameJam 2022: 1 Hp"
 date: 2023-02-23 18:00
 author: Gustav Erlandsson
 categories: 
-- blog
 - Projekt
-img: bigfrog.png
+img: frog.png
 thumb: frog.png #thumbnail
-bthumb: bigfrog.png #bigthumbnail
+bthumb: frog.png #bigthumbnail
 ---
 ARC's höst Game Jam 2022 är över och så här blev resultatet!
 <!--more-->
 Första spelet heter Omelette du Frogmage och handlar om en grodas överlevnad i ett hungrigt Frankrike.
 [Här är länken](https://arc-sweden.itch.io/omelette-du-frogmage-gamejam-2022-fall).
-
-
 
 Mouse to aim
 
