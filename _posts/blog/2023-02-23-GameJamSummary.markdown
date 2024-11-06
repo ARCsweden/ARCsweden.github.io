@@ -6,9 +6,9 @@ author: Gustav Erlandsson
 categories: 
 - blog
 - Projekt
-img: bigfrog.PNG
+img: bigfrog.png
 thumb: frog.png #thumbnail
-bthumb: bigfrog.PNG #bigthumbnail
+bthumb: bigfrog.png #bigthumbnail
 ---
 ARC's höst Game Jam 2022 är över och så här blev resultatet!
 <!--more-->
