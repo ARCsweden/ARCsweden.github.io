@@ -4,10 +4,10 @@ title: "ARC GameJam Hösten 2024"
 date: 2024-11-06 19:00
 author: Erik Lindgren
 categories: 
+- blog
 - Projekt
-img: gamejam2024fall.PNG
-thumb: gamejam2024fall.PNG #thumbnail
-bthumb: gamejam2024fall.PNG #bigthumbnail
+img: gamejam2024fall.png
+thumb: gamejam2024fall.png #thumbnail
 ---
 Höstens gamejam gick kanon! Vi fick till två stycken spel!
 <!--more-->
